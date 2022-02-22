@@ -36,6 +36,6 @@ An in depth analysis of the dataset Sapa , for the purpose of deriving meaningfu
 #####   From the data given  i noticed that customers who spent more on one of the company's product , did not really buy into the new marketing campaign 
 
 ##### Recommendations :-
-##### more data is needed for better predictions
+##### more data is needed for better prediction
 ##### an extra field should be created to take customer's feedback
 ##### the  companies products should be improved to a high standard 
