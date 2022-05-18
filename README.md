@@ -1,4 +1,4 @@
-An issue might occur when trying to view the jupyter notebook , check this link to view thr notebook(https://nbviewer.org/github/AbdulRasheed6/Sapa_Dataset/blob/main/main.ipynb) 
+An issue might occur when trying to view the jupyter notebook , check this link to view the notebook(https://nbviewer.org/github/AbdulRasheed6/Sapa_Dataset/blob/main/main.ipynb) 
 
 # Sapa_Dataset
 An in depth analysis of the dataset Sapa , for the purpose of deriving meaningful insights and creating a model for predicting future responses of customers
@@ -39,3 +39,6 @@ An in depth analysis of the dataset Sapa , for the purpose of deriving meaningfu
 ##### more data is needed for better prediction
 ##### an extra field should be created to take customer's feedback
 ##### the  companies products should be improved to a high standard 
+#####  Marital_status should be grouped into single or relationship
+##### while Education_status should grouped into undergraduate or graduate
+#### Customer segmentation should be carried out using an unsupervised technique like Kmeans clustering algorithm
